@@ -1,1 +1,12 @@
-vimrc
+Oliver rockmellons 2
+Robert pears 4
+Susy oranges 12
+Susy oranges 5
+Terry oranges 9
+
+vimrc 
+
+s: ls -dl /home/aetienne
+drwx------ 60 aetienne student 8192 Feb 11 14:17 /home/aetienne
+
+
